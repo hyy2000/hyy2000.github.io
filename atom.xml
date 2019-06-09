@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-11-25T04:03:15.229Z</updated>
+  <updated>2019-06-09T12:58:58.498Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,6 +17,52 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>oop</title>
+    <link href="http://yoursite.com/2019/06/09/oop/"/>
+    <id>http://yoursite.com/2019/06/09/oop/</id>
+    <published>2019-06-09T12:49:00.000Z</published>
+    <updated>2019-06-09T12:58:58.498Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="is-a-��have-a����-like-a������"><a href="#is-a-��have-a����-like-a������" class="headerlink" title="is-a ��have-a���� like-a������"></a>is-a ��have-a���� like-a������</h1><ol><li>is-a��has-a��like-a��ʲô </li></ol><ul><li>�����������Ƶ�����������������˼·����Ҫ���������֣�<br>is-a��has-a��like-a<br>java�����ࡢ�ӿڡ����������кܶ����֡� </li></ul><ol start="2"><li>is-a��ʲô</li></ol><ul><li>is-a������˼�壬��һ���������̳й�ϵ��<br>���A is-a B����ôB����A�ĸ��ࡣ<br>һ������ȫ������һ������������Լ���Ϊ��<br>����PC���Ǽ����������վҲ�Ǽ������PC���͹���վ�����ֲ�ͬ���͵ļ�����������̳��˼�����Ĺ�ͬ���ԡ��������Java����ʵ��ʱ��Ӧ�ý�PC���͹���վ����������࣬���̳м�����ࡣ </li></ul><ol start="3"><li>has-a��ʲô</li></ol><ul><li>has-a������˼�壬��һ��������������ϵ��<br>���A has a B����ôB����A����ɲ��֡�<br>ͬһ����Ķ���ͨ�����ǵ����ԵĲ�ֵͬ������<br>����һ̨PC���Ĳ���ϵͳ��Windows����һ̨PC���Ĳ���ϵͳ��Linux������ϵͳ��PC����һ����Ա������������һ��Ա�����Ĳ�ֵͬ���������ֲ�ͬ��PC������</li></ul><ol start="4"><li>like-a��ʲô</li></ol><ul><li>like-a������˼�壬��һ����������Ϲ�ϵ��<br>���A like a B����ôB����A�Ľӿڡ�<br>�������������͵Ľӿڣ����������������������Բ���˵������ȫ��ͬ��<br>����һ̨�ֻ�����˵��һ��΢�ͼ�����������ֻ���ͨѶ������Ȼ���Ǽ�����߱�����Ϊ�������ֻ��̳��˼���������ԣ�ͬʱ��Ҫʵ��ͨѶ���ܣ���ͨѶ������Ҫ��Ϊ�����ӿڣ������Ǽ��������Ϊ��</li></ul><ol start="5"><li>is-a��has-a��like-a���Ӧ��</li></ol><ul><li>�����ȷ����������֮����is-a�Ĺ�ϵ����ô��ʱ��Ӧ��ʹ�ü̳У��������Ρ�Բ�κͷ��ζ�����״��һ�֣���ô���Ƕ�Ӧ�ô���״��̳С�<br>�����ȷ����������֮����has-a�Ĺ�ϵ����ô��ʱ��Ӧ��ʹ�þۺϣ��������������ʾ����CPU��Ӳ�̵���ɵģ���ô��Ӧ�ð���ʾ����CPU��Ӳ����Щ��ۺϳɵ����ࡣ<br>�����ȷ����������֮����like-a�Ĺ�ϵ����ô��ʱ��Ӧ��ʹ����ϣ�����յ��̳��������������ͬʱ�м��ȹ��ܣ���ô��Ӧ�ð��ÿյ��̳�������࣬��ʵ�ּ��Ƚӿڡ�<a id="more"></a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;is-a-��have-a����-like-a������&quot;&gt;&lt;a href=&quot;#is-a-��have-a����-like-a������&quot; class=&quot;headerlink&quot; title=&quot;is-a ��have-a���� like-a������&quot;&gt;&lt;/a&gt;is-a ��have-a���� like-a������&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;is-a��has-a��like-a��ʲô &lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;�����������Ƶ�����������������˼·����Ҫ���������֣�&lt;br&gt;is-a��has-a��like-a&lt;br&gt;java�����ࡢ�ӿڡ����������кܶ����֡� &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;is-a��ʲô&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;is-a������˼�壬��һ���������̳й�ϵ��&lt;br&gt;���A is-a B����ôB����A�ĸ��ࡣ&lt;br&gt;һ������ȫ������һ������������Լ���Ϊ��&lt;br&gt;����PC���Ǽ����������վҲ�Ǽ������PC���͹���վ�����ֲ�ͬ���͵ļ�����������̳��˼�����Ĺ�ͬ���ԡ��������Java����ʵ��ʱ��Ӧ�ý�PC���͹���վ����������࣬���̳м�����ࡣ &lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;has-a��ʲô&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;has-a������˼�壬��һ��������������ϵ��&lt;br&gt;���A has a B����ôB����A����ɲ��֡�&lt;br&gt;ͬһ����Ķ���ͨ�����ǵ����ԵĲ�ֵͬ������&lt;br&gt;����һ̨PC���Ĳ���ϵͳ��Windows����һ̨PC���Ĳ���ϵͳ��Linux������ϵͳ��PC����һ����Ա������������һ��Ա�����Ĳ�ֵͬ���������ֲ�ͬ��PC������&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;like-a��ʲô&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;like-a������˼�壬��һ����������Ϲ�ϵ��&lt;br&gt;���A like a B����ôB����A�Ľӿڡ�&lt;br&gt;�������������͵Ľӿڣ����������������������Բ���˵������ȫ��ͬ��&lt;br&gt;����һ̨�ֻ�����˵��һ��΢�ͼ�����������ֻ���ͨѶ������Ȼ���Ǽ�����߱�����Ϊ�������ֻ��̳��˼���������ԣ�ͬʱ��Ҫʵ��ͨѶ���ܣ���ͨѶ������Ҫ��Ϊ�����ӿڣ������Ǽ��������Ϊ��&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;is-a��has-a��like-a���Ӧ��&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;�����ȷ����������֮����is-a�Ĺ�ϵ����ô��ʱ��Ӧ��ʹ�ü̳У��������Ρ�Բ�κͷ��ζ�����״��һ�֣���ô���Ƕ�Ӧ�ô���״��̳С�&lt;br&gt;�����ȷ����������֮����has-a�Ĺ�ϵ����ô��ʱ��Ӧ��ʹ�þۺϣ��������������ʾ����CPU��Ӳ�̵���ɵģ���ô��Ӧ�ð���ʾ����CPU��Ӳ����Щ��ۺϳɵ����ࡣ&lt;br&gt;�����ȷ����������֮����like-a�Ĺ�ϵ����ô��ʱ��Ӧ��ʹ����ϣ�����յ��̳��������������ͬʱ�м��ȹ��ܣ���ô��Ӧ�ð��ÿյ��̳�������࣬��ʵ�ּ��Ƚӿڡ�
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hexo &amp;&amp; GitPage 搭建博客</title>
     <link href="http://yoursite.com/2018/11/25/hexo%E6%95%99%E7%A8%8B/"/>
     <id>http://yoursite.com/2018/11/25/hexo教程/</id>
@@ -24,28 +70,6 @@
     <updated>2018-11-25T04:03:15.229Z</updated>
     
     <content type="html"><![CDATA[<p>主页可显摘要<br><a id="more"></a>                #阅读全文分隔符<br>read more</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;主页可显摘要&lt;br&gt;
-    
-    </summary>
-    
-      <category term="类别" scheme="http://yoursite.com/categories/%E7%B1%BB%E5%88%AB/"/>
-    
-    
-      <category term="标签" scheme="http://yoursite.com/tags/%E6%A0%87%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hello world</title>
-    <link href="http://yoursite.com/2018/11/24/helloworld/"/>
-    <id>http://yoursite.com/2018/11/24/helloworld/</id>
-    <published>2018-11-24T14:22:22.000Z</published>
-    <updated>2018-11-24T13:44:02.890Z</updated>
-    
-    <content type="html"><![CDATA[<p>主页可显摘要<br><a id="more"></a>                #阅读全文分隔符<br>展开余下全文</p>]]></content>
     
     <summary type="html">
     
